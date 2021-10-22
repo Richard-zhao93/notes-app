@@ -1,0 +1,12 @@
+* {
+  /* CSS初始化 */
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: PingFang SC, Microsoft Yahei, sans-serif;
+  user-select: none;
+}
+
+.hover:hover {
+  background-color: rgba(15, 23, 42, 0.04);
+}
